@@ -1,0 +1,19 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  left:
+    - text: "Plotly"
+      href: plotly.html
+    - text: "Resume"
+      href: about.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<yl4359@cumc.columbia.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/taotaobanfan/
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/yue-lai-9b9109155/   
+output:
+  html_document:
+    theme: journal

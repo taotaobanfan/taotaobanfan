@@ -1,0 +1,61 @@
+---
+title: "Yue Lai"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+
+### EDUCATION
+
+__Columbia University, Mailman School of Public Health__, New York, NY                                       
+
+_Master of Science, Biostatistics, Theory and Methods Track_, Expected May 2021                         
+
+* Relevant Courses: Data Science Ⅰ, Biostatistical Methods Ⅰ, Probability, Principles of Epidemiology Ⅰ       
+
+__Zhejiang University__, Hangzhou, China                                                                      
+
+_Bachelor of Science, Agricultural Resources and Environment, GPA: 3.82/4.0_, Sept. 2015 - June 2019
+
+* Relevant Courses: Calculus Ⅰ Ⅱ Ⅲ, Probability and Mathematical Statistics, Linear Algebra, Stochastic Process, Principles of Database Systems, Biostatistics and Experimental Design, Discrete Mathematics
+
+### WORK EXPERIENCE
+
+__Enjoyor Co., Ltd.__, Hangzhou, China
+
+_Data Analysis Intern_, Feb. 2019 - May 2019
+
+* Designed Python APIs that connected to the PostgreSQL Database and extracted Shanghai Municipal Bureau of Justice’s legal aid data in PostgreSQL
+* Performed data preprocessing via SQL and Python by selecting, joining and calculating dataset to a combined structured dataset of lawyers’ basic information and the cases they took
+* Trained a Word2Vec model with Python (gensim) to calculate the relativity between user’s legal issues and lawyer’s specialty
+* Categorified and labeled over 40 000 observations of legal question data with K-means clustering
+* Developed modules through Python for lawyer recommendation system
+
+__Hangzhou Center for Disease Control and Prevention__, Hangzhou, China 
+
+_Data Analysis Intern_, Feb. 2018 - Mar. 2018
+
+* Conducted quality control on the survey data of an 8-year longitudinal community health survey among 1647 citizens in Hangzhou
+* Performed several descriptive analyses on the dataset using R
+
+### RESEARCH EXPERIENCE
+
+__Zhejiang University__, Hangzhou, China
+
+_Research on Spatial Pattern of Leisure Agriculture in Hangjiahu Area_, Dec. 2018 - Mar. 2019
+
+* Obtained 2537 POIs (Point of Interest) of leisure agriculture in Hangjiahu (area in Zhejiang Province, China) by scraping Baidu Map website using Python (urllib, json)
+* Transformed coordinates of POIs from BD09 to WGS84 and imported geographic data to ArcGIS
+* Analyzed the spatial pattern of leisure agriculture based on spatial analysis methods, such as nearest neighbor index, nuclear density analysis and inverse distance weighting
+
+_Research on the Correlation Between Soil Fertility and its Physicochemical Properties_, Apr. 2018 - May 2018 
+
+* Conducted linear regression and ANOVA analysis to find the correlation between soil fertility and its physicochemical properties using SAS
+
+### SKILLS 
+
+* Computer Skills: Python, R, SQL, SAS, ArcGIS, Git/Github, Microsoft Office (Word, Excel, PowerPoint)
+* Language Skills: English, Chinese
+                                                
